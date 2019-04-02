@@ -1,7 +1,1 @@
-# Sorry... 
-
-...to take up space on the internet. 
-
-## But...
-
-...it's good to have somewhere warm to learn.
+Let's see how little's needed in the landing page.
