@@ -1,3 +1,7 @@
-# Welcome to my blog
+# Sorry... 
 
-I'm glad you are here. I plan to talk about ...
+...to take up space on the internet. 
+
+## But...
+
+...it's good to have somewhere warm to learn.
